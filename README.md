@@ -1,1 +1,3 @@
 # XOR
+
+open test.txt
