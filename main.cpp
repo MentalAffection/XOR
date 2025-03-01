@@ -6,7 +6,7 @@ using namespace std;
 void encrypt_decrypt (const string & filename , char key) {
     fstream file (filename , ios::binary | ios::in | ios::out);
     if (!file) {
-        cerr << "failed to open file " << filename << endl;
+        cerr << "failed to open file: " << filename << endl;
         return;
     }
 
