@@ -23,7 +23,7 @@
                 "isDefault": true
             },
             "presentation": {
-                "clear": true                        // <-- this line
+                "clear": true                        
           }
         }
     ]
