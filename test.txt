@@ -1,1 +1,1 @@
-Hello, this file is testing XOR encryptor
+Hello, this file is testing XOR encryptor. Run xor.exe and after open this file. Then run xor.exe once again and open this txt.
