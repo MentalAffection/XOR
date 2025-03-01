@@ -21,7 +21,7 @@ void encrypt_decrypt (const string & filename , char key) {
 
 int main () {
 
-    string filename = "example.txt";
+    string filename = "test.txt";
     const char key = 0xFA;
 
     encrypt_decrypt (filename, key);
